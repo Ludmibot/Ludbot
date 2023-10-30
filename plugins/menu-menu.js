@@ -27,9 +27,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *Owner:* 𝐋𝐮𝐝𝐦𝐢𝐁𝐨𝐭
-║➤ *Numero:* wa.me/51955095498
-║➤ *Creador 1:* wa.me/56954390663
-║➤ *Creador 2:* wa.me/56945086055
+║➤ *Numero:* wa.me/542915267624
+║➤ *Creador 1:* wa.me/542915267624
+║➤ *Creador 2:* wa.me/542915267624
 ║➤ *Instagram:* https://www.instagram.com/ventas_bot_ludmi
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
