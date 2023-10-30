@@ -10,31 +10,31 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51955095498', 'Richetti', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['51933348947', 'Richetti2', true],
-  ['56954390663', 'GeriPium', true],
-  ['5492915267624', 'LudmiBot', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055', '@ceogeripium.dzn', false],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'], 
-  ['56945086055'],  
-  ['56945086055'], 
-  ['56945086055']
+  ['542915267624', 'LudmiBot', true],
+  ['542915267624', '@LudmiBot', true],
+  ['542915267624', 'LudmiBot', true],
+  ['542915267624', 'LudmiBot', true],
+  ['542915267624', 'LudmiBot', true],
+  ['542915267624', '@LudmiBot', true],
+  ['542915267624', '@LudmiBot', true],
+  ['542915267624', '@LudmiBot', false],
+  ['542915267624', '@LudmiBot', true],
+  ['542915267624', '@LudmiBot', true],
+  ['542915267624'],
+  ['542915267624'],
+  ['542915267624'],
+  ['542915267624'],
+  ['542915267624'],
+  ['542915267624'],
+  ['542915267624'],
+  ['542915267624'], 
+  ['542915267624'],  
+  ['542915267624'], 
+  ['542915267624']
 ];
 
-global.suittag = ['56945086055'];
-global.prems = ['56945086055'];
+global.suittag = ['542915267624'];
+global.prems = ['542915267624'];
 
 global.packname = 'LudmiBot';
 global.author = 'LudmiBot';
